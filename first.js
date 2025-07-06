@@ -1,3 +1,5 @@
+/*VARIABLES AND DATA TYPES*/
+
 /*console.log("welcome to apna college date 1/3/2025");
 console.log("welcome to harika learning");
 alert("harika");
@@ -76,7 +78,7 @@ console.log(product["offer"]);
 typeof product....object*/
 
 
-const profile = {
+/*const profile = {
      userName : "@Harika",
      followers : 123,
      following : 145,
@@ -89,4 +91,4 @@ console.log(profile["isFollow"]);
 console.log(profile);
 console.log(typeof profile.isFollow);
 console.log(typeof profile)
-console.log(typeof profile["isFollow"]);
+console.log(typeof profile["isFollow"]);*/
